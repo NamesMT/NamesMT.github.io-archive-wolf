@@ -1,0 +1,10 @@
+@font-face {
+	font-family: pixel;
+	src:
+		url('fonts/pixel.woff2') format('woff2'),
+		url('fonts/pixel.woff') format('woff');
+}
+
+body{
+	font-family: pixel;
+}
