@@ -1,2 +1,2 @@
 # NamesMT.github.io
-Github Page for static site, duh.
+Source-available, static page version (HTML/CSS/JS) version of my apps, improvements are welcomed :)
